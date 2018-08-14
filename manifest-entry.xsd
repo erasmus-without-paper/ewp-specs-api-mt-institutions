@@ -62,8 +62,7 @@
                         <xs:element name="max-ids" type="xs:positiveInteger" minOccurs="1" maxOccurs="1">
                             <xs:annotation>
                                 <xs:documentation>
-                                    The maximum number of `pic` or `erasmus` parameters the server is willing
-                                    to accept in one request.
+                                    The maximum number of `pic` parameters the server is willing to accept in one request.
                                 </xs:documentation>
                             </xs:annotation>
                         </xs:element>
